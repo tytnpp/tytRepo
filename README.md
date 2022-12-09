@@ -195,3 +195,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 🫠
+
+642115003 Kan Katpark 🍁
