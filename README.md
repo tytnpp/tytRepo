@@ -195,3 +195,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 🫠
+
+:star: 642115017 Dusit
