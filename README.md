@@ -197,3 +197,4 @@ Emoji:
 🫠
 
 642115003 Kan Katpark 🍁
+:star: 642115017 Dusit
